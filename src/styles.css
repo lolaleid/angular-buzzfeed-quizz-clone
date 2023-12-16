@@ -1,12 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 *{
-  padding:0;
-  margin:0;
-  border:0;
-  box-sizing: border-box;
-  color:antiquewhite;
+    /* Define um padrão de posicionamento independente do navegador */
+    padding: 0;
+    margin: 0;
+    border: 0;
+    /* Considera o tamanho do objeto de borda à borda, o que inclui padding e box sizing */
+    box-sizing: border-box;
+    color: antiquewhite;
 }
 
 body{
-  background-color: #1F1147;
+    background-color: #1f1147;
 }

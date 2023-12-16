@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Descubra sua personalidade dominante",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Quando você está em um grupo de pessoas, você prefere:",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Falar e interagir com todos", "alias":"A"},
+        {"id": 2, "name":"Ficar em silêncio e observar", "alias":"B"},
+        {"id": 3, "name":"Falar com algumas pessoas próximas a você", "alias":"C"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Quando você tem um problema, você prefere:",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Resolvê-lo sozinho", "alias":"B"},
+        {"id": 2, "name":"Pedir ajuda a alguém", "alias":"A"},
+        {"id": 3, "name":"Esperar que o problema se resolva sozinho", "alias":"C"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quando você tem um tempo livre, você prefere:",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Ficar em casa e relaxar", "alias":"B"},
+        {"id": 2, "name":" Sair e se divertir com amigos", "alias":"C"},
+        {"id": 3, "name":"Fazer algo produtivo ou aprender algo novo", "alias":"A"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Quando você está em um ambiente novo, você prefere:",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Explorar e conhecer tudo", "alias":"A"},
+        {"id": 2, "name":"Ficar em um lugar seguro e confortável", "alias":"B"},
+        {"id": 3, "name":"Fazer algo que você já conhece e gosta", "alias":"C"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Quando você tem que tomar uma decisão importante, você prefere:",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Seguir sua intuição", "alias":"A"},
+        {"id": 2, "name":"Analisar os prós e contras", "alias":"B"},
+        {"id": 3, "name":"Pedir conselhos a outras pessoas", "alias":"C"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Provavelmente sua personalidade dominante é Assertiva",
+    "B": "Provavelmente sua personalidade dominante é Reservada",
+    "C": "Provavelmente sua personalidade dominante é Passiva"
   }
 }
